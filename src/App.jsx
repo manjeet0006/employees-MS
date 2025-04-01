@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from "react";
 
 import Login from "./components/Auth/Login";
-import EmpoyeeDashboard from "./components/Dashboard/empoyeeDashboard";
+import EmpoyeeDashboard from "./components/Dashboard/EmpoyeeDashboard";
 import TaskList from "./components/TaskList/TaskList";
 import AdminDashboard from "./components/Dashboard/AdminDashboard";
 
